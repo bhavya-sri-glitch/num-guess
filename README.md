@@ -1,5 +1,9 @@
 # 🎯 Number Guessing Game (Flask Web App)
 
+First, install Flask:
+
+pip install flask
+
 This is a simple web-based number guessing game built with **Python Flask**, **HTML**, and **CSS**.
 
 The computer randomly selects a number between 1 and 5, and the user tries to guess it. Feedback is displayed immediately after submission.
